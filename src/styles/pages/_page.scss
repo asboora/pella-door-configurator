@@ -1,0 +1,7 @@
+// homepage.scss
+@import 'utils/variables'; // Importing the variables file
+
+.homepage-banner {
+    background-color: $primary-color; // Example of using a variable
+    // ... other styles
+}
